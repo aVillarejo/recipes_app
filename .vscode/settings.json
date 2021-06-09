@@ -1,0 +1,14 @@
+{
+  "editor.defaultFormatter": "standard.vscode-standard",
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "javascript.format.enable": false,
+  "javascript.validate.enable": false,
+  "standard.autoFixOnSave": true,
+  "standard.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ]
+}
