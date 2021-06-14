@@ -12,7 +12,7 @@
 <!-- ![Login](./doc/screenshots/login_100%.png)
 ![Login](./doc/screenshots/login_50%.png) -->
 ##### Login Screen
-![Login](./doc/screenshots/login_35%.png)
+![Login](./doc/screenshots/login.png)
 <!-- ![Home View](./docs/screenshot_a.png)
 ![Board View](./docs/screenshot_b.png) -->
 
