@@ -22,7 +22,7 @@ const App = () => {
         screenOptions={{
           headerShown: false
         }}
-        initialRouteName='Login'
+        initialRouteName='Home'
       >
         <Stack.Screen
           name='Login'

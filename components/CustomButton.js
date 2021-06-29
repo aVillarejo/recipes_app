@@ -5,7 +5,7 @@ import {
   StyleSheet
 } from 'react-native'
 import LinearGradient from 'react-native-linear-gradient'
-import { COLORS, FONTS } from '../../constants'
+import { COLORS, FONTS } from '../constants'
 
 const CustomButton = ({
   buttonText,
@@ -43,6 +43,8 @@ const CustomButton = ({
   )
 }
 
+export default CustomButton
+
 const styles = StyleSheet.create({
   buttonTextStyle: {
     color: COLORS.white,
@@ -54,5 +56,3 @@ const styles = StyleSheet.create({
     paddingVertical: 18
   }
 })
-
-export default CustomButton
