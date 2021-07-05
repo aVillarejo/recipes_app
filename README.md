@@ -6,6 +6,11 @@
 
 ###### Design by [Herdetya Priambodo](https://dribbble.com/herdetya)
 
+## Demo
+---
+#### App Demo
+![app-demo](./doc/screenshots/app-demo.gif)
+
 ## Screenshots
 ---
 #### Login Screen
@@ -18,7 +23,7 @@
 ![Recipe-Details](./doc/screenshots/recipe-details.png)
 
 #### Header Animation
-![Header-Animation](./doc/screenshots/recipe-details.gif)
+![Header-Animation](./doc/screenshots/header_animation.gif)
 
 ----
 
